@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "example.jpg",
+      "name": "Product A",
+      "count": 10,
+      "size": { "width": 100, "height": 200 },
+      "weight": "1kg",
+      "comments": []
+    }
+  ]
+}
